@@ -1,4 +1,4 @@
-name: Weekly Release WRT
+name: Weekly Release WRT编译所有固件
 run-name: Weekly Release WRT
 
 on:
